@@ -36,7 +36,7 @@ Boostcamp AI Tech 3기 `#눈#사람` 조의 알고리즘 스터디 저장소입�
 10. 해당 문제의 코드리뷰가 끝나면 메인 저장소에 merge 합니다.
     
 
-## ✔ commit 규칙
+## ✔ Commit 규칙
 
 - **commit 메시지)** `[문제출처] 문제번호 - 문제이름`
 - **description (optional))** 문제 url
